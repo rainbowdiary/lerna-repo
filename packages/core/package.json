@@ -1,6 +1,6 @@
 {
   "name": "@rainbow-cli-dev/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "rainbow-cli-dev/core",
   "author": "rainbowdiary <zengcai666@gmail.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "rainbow-test": "^1.1.0",
-     "@rainbow-cli-dev/utils":"^1.0.0"
+    "@rainbow-cli-dev/utils": "^1.0.0",
+    "rainbow-test": "^1.1.0"
   }
 }
