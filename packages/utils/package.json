@@ -1,6 +1,6 @@
 {
   "name": "@rainbow-cli-dev/utils",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "rainbow-cli-dev utils",
   "author": "rainbowdiary <zengcai666@gmail.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "dependencies": {
     "rainbow-test": "^1.1.0"
   },
-  "gitHead": "dff9cef308377cbbf68c006c9a3a1ce73374b535"
+  "gitHead": "64278b6798b59006bf675e4a67c32269dba9b7c7"
 }
