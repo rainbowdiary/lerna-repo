@@ -1,0 +1,22 @@
+{
+  "name": "@rainbow-cli-dev/utils",
+  "version": "0.0.0",
+  "description": "rainbow-cli-dev utils",
+  "author": "rainbowdiary <zengcai666@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "rainbow-test": "^1.1.0"
+  }
+}
