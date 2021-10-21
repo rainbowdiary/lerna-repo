@@ -100,3 +100,14 @@ $ lerna link
 
 
 ## 脚手架开发 lerna exec
+
+## lerna publish发布
+没有发布成功
+```
+lerna publish 
+info cli using local version of lerna
+lerna notice cli v4.0.0
+lerna info current version 0.0.2
+lerna notice Current HEAD is already released, skipping change detection.
+lerna success No changed packages to publish 
+```

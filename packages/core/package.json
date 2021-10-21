@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
+  "bin":{
+    "rainbow-cli-dev":"bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,6 @@
   "dependencies": {
     "@rainbow-cli-dev/utils": "^1.0.0",
     "rainbow-test": "^1.1.0"
-  }
+  },
+  "gitHead": "dff9cef308377cbbf68c006c9a3a1ce73374b535"
 }
